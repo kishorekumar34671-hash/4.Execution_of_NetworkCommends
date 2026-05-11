@@ -29,7 +29,9 @@ This commands includes
 ## Output
 1.ping:
 ```
-<img width="1920" height="1080" alt="command 1" src="https://github.com/user-attachments/assets/dfb49e5e-2799-4812-a234-ea46f2f3edb3" />
+
+<img width="1920" height="1080" alt="command 1" src="https://github.com/user-attachments/assets/e37da79f-6a2e-4f99-8cb8-6b962ce21ac9" />
+
 ```
 2.ipconfig:
 ```
